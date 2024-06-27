@@ -1,5 +1,5 @@
 # Task-Board
-by Chris Phelps 
+by Chris Phelps https://c-phelps.github.io/Task-Board/
 ![image](https://github.com/c-phelps/Task-Board/assets/169304277/d62c5a46-a3ae-4cc3-8824-665f02fce1c5)
 
 ## Purpose of the repo
