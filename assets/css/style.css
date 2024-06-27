@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 16px;
 }
 
@@ -13,4 +13,22 @@ body {
 
 .task-card:hover {
   cursor: grab;
+}
+
+/* make the button stand out a bit more */
+.cstm-btn-style {
+  width: 50%;
+  align-self: center;
+  cursor: pointer;
+  border: 1px solid black;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* force the custom cards to the higher z index */
+.cstm-card-style {
+  z-index: 1;
+}
+/* custom class for when hovering the draggable element */
+.ui-state-hover {
+  background-color: #198754 !important;
 }
